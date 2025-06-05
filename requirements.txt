@@ -1,1 +1,2 @@
 Flask==3.0.3
+pdfminer.six==20221105
