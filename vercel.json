@@ -9,5 +9,10 @@
     "app/api/analyze-pdf/route.ts": {
       "runtime": "nodejs18.x"
     }
+  },
+  "build": {
+    "env": {
+      "PYTHON_VERSION": "3.9"
+    }
   }
 }
