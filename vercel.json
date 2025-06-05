@@ -11,5 +11,5 @@
       "PYTHON_VERSION": "3.9"
     }
   },
-  "installCommand": "pip install -r requirements.txt"
+  "buildCommand": "pip install -r requirements.txt && next build"
 }
